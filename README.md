@@ -9,14 +9,14 @@ You can view the live version of my portfolio here: [**soham-kundu.vercel.app**]
 ## Visual Showcase 📸
 
 Here's a glimpse of what my portfolio looks like:
-assets/Screenshot 2025-08-20 201405.png
-assets/Screenshot 2025-08-20 201444.png
-assets/Screenshot 2025-08-20 201459.png
-assets/Screenshot 2025-08-20 201513.png
-assets/Screenshot 2025-08-20 201546.png
-assets/Screenshot 2025-08-20 201556.png
-assets/Screenshot 2025-08-20 201608.png
-assets/Screenshot 2025-08-20 201619.png
+![Portfolio Home Page](./assets/Screenshot%202025-08-20%20201444.png)
+![Portfolio About Section](./assets/Screenshot%202025-08-20%20201459.png)
+![Portfolio Projects Section](./assets/Screenshot%202025-08-20%20201513.png)
+![Portfolio Skills Section](./assets/Screenshot%202025-08-20%20201546.png)
+![Portfolio Contact Section](./assets/Screenshot%202025-08-20%20201556.png)
+![Portfolio Footer](./assets/Screenshot%202025-08-20%20201608.png)
+![Portfolio Mobile View](./assets/Screenshot%202025-08-20%20201619.png)
+
 
 ## Key Features ✨
 
@@ -39,14 +39,16 @@ This portfolio is built with a modern tech stack to ensure performance and a gre
 
 The project is organized with a clear and intuitive folder structure:
 
-/├── assets/│
-    ├── images/│ 
-    ├── videos/│ 
-    └── Soham-Resume.pdf
-    
-├── index.html├
-── style.css└
-── script.js
+/
+├── assets/
+│   ├── images/
+│   ├── videos/
+│   └── Soham-Resume.pdf
+├── index.html
+├── style.css
+└── script.js
+
+
 
 
 ## Setup and Installation ⚙️
