@@ -9,12 +9,13 @@ You can view the live version of my portfolio here: [**soham-kundu.vercel.app**]
 ## Visual Showcase 📸
 
 Here's a glimpse of what my portfolio looks like:
-![Portfolio Home Page](./assets/Screenshot%202025-08-20%20201444.png)
-![Portfolio About Section](./assets/Screenshot%202025-08-20%20201459.png)
-![Portfolio Projects Section](./assets/Screenshot%202025-08-20%20201513.png)
-![Portfolio Skills Section](./assets/Screenshot%202025-08-20%20201546.png)
-![Portfolio Contact Section](./assets/Screenshot%202025-08-20%20201556.png)
-![Portfolio Footer](./assets/Screenshot%202025-08-20%20201608.png)
+![Portfolio Home Page](./assets/Screenshot%202025-08-20%20201405.png)
+![Portfolio About Section](./assets/Screenshot%202025-08-20%20201444.png)
+![Portfolio Projects Section](./assets/Screenshot%202025-08-20%20201556.png)
+![Portfolio Skills Section](./assets/Screenshot%202025-08-20%20201459.png)
+![Portfolio Contact Section](./assets/Screenshot%202025-08-20%20201513.png)
+![Portfolio Footer](./assets/Screenshot%202025-08-20%20201546.png)
+![Portfolio Mobile View](./assets/Screenshot%202025-08-20%20201608.png)
 ![Portfolio Mobile View](./assets/Screenshot%202025-08-20%20201619.png)
 
 
